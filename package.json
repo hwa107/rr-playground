@@ -1,0 +1,13 @@
+{
+  "name": "rr-playground",
+  "version": "0.0.1",
+  "description": "Experimental project with Restler and RSVP.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hwa107/rr-playground.git"
+  },
+  "dependencies": {
+    "rsvp": "*",
+    "restler": "*"
+  }
+}
